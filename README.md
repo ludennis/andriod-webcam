@@ -1,2 +1,2 @@
 # andriod-webcam
-Using andriod phone's camera as webcam for Ubuntu
+Using android phone's camera as webcam for Ubuntu 18.04 under arm
